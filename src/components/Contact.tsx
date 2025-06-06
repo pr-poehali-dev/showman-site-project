@@ -16,14 +16,8 @@ const Contact = () => {
     {
       icon: "Phone",
       title: "Телефон",
-      value: "+7 (999) 123-45-67",
+      value: "+79781257181",
       description: "Звоните в любое время",
-    },
-    {
-      icon: "Mail",
-      title: "Email",
-      value: "info@dmitriyshparuk.ru",
-      description: "Ответим в течение часа",
     },
     {
       icon: "MapPin",
