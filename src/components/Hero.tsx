@@ -13,7 +13,7 @@ const Hero = () => {
         {/* Content */}
         <div className="lg:w-1/2 text-center lg:text-left mb-12 lg:mb-0">
           <h1 className="text-5xl lg:text-7xl font-bold mb-6 bg-gradient-to-r from-white to-purple-200 bg-clip-text text-transparent">
-            Михаил Волков
+            Дмитрий Шпарук
           </h1>
           <p className="text-xl lg:text-2xl mb-4 text-purple-200">
             Ведущий мероприятий и шоумен
@@ -49,7 +49,7 @@ const Hero = () => {
             <div className="w-80 h-80 lg:w-96 lg:h-96 rounded-full bg-gradient-to-br from-purple-500 to-orange-500 p-2">
               <img
                 src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face"
-                alt="Михаил Волков - ведущий мероприятий"
+                alt="Дмитрий Шпарук - ведущий мероприятий"
                 className="w-full h-full rounded-full object-cover"
               />
             </div>

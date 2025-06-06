@@ -22,7 +22,7 @@ const Contact = () => {
     {
       icon: "Mail",
       title: "Email",
-      value: "info@mikhailvolkov.ru",
+      value: "info@dmitriyshparuk.ru",
       description: "Ответим в течение часа",
     },
     {
