@@ -48,8 +48,8 @@ const Hero = () => {
           <div className="relative">
             <div className="w-80 h-80 lg:w-96 lg:h-96 rounded-full bg-gradient-to-br from-purple-500 to-orange-500 p-2">
               <img
-                src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face"
-                alt="Дмитрий Шпарук - ведущий мероприятий"
+                src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop&crop=face"
+                alt="Дмитрий Шпарук - профессиональный ведущий"
                 className="w-full h-full rounded-full object-cover"
               />
             </div>
