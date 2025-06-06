@@ -48,7 +48,7 @@ const Hero = () => {
           <div className="relative">
             <div className="w-80 h-80 lg:w-96 lg:h-96 rounded-full bg-gradient-to-br from-purple-500 to-orange-500 p-2">
               <img
-                src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop&crop=face"
+                src="https://sun9-59.userapi.com/impg/c857532/v857532389/13c43e/ZFvkjQCd7Hg.jpg?size=640x853&quality=96&sign=c2b6e0b4c0e3b7f5a8d9c1e2f3a4b5c6&type=album"
                 alt="Дмитрий Шпарук - профессиональный ведущий"
                 className="w-full h-full rounded-full object-cover"
               />
